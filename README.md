@@ -1,6 +1,10 @@
 # 💫 About Me:
-🔭 I'm currently working on 'Dummy Bitcoin Trading System'.<br>👯 I'm looking to collaborate on 'Open Source Projects'.<br>🤝 I'm looking to help with JavaScript, TypeScript and Freelance projects.<br>🌱 I'm currently learning Backend communication and TypeScript.<br>💬 Ask me about Competitive Programming, Full Stack Development and Open Source.<br>⚡ Fun fact : I sip coffee more than I push my committs.<br>
-
+🔭 Currently Building: AI-powered SaaS tools, including an email management platform and a personal finance app for digital nomads.<br>
+👯 Looking to Collaborate: On Open Source projects and SaaS ventures that make life easier (or at least more interesting).<br>
+🤝 Open to Helping: With JavaScript, TypeScript, React, and turning caffeine into code.<br>
+🌱 Currently Learning: How to tame Graphs, DP, and Recursion—one bug at a time. Also diving into Backend & Finance.<br>
+💬 Ask Me About: Competitive Programming, Full Stack Development, SaaS, and why side projects are the real MVPs.<br>
+⚡ Fun Fact: I push more code than I do push-ups… but I’m working on both. 💻💪<br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/keshav-sinha-3774b721a) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/CallPresti61888) 
